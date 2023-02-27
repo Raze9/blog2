@@ -16,7 +16,6 @@ import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Service;
 
 import java.util.Objects;
-
 @Service
 public class BlogLoginServiceImpl implements BlogLoginService {
 	@Autowired
